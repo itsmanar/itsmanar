@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis and Ai projects**
 
-- 💡 to see some interesting ideas [https://twitter.com/itslManar](https://twitter.com/itslManar)
+- 💡 to see some interesting ideas [https://medium.com/@itsmanar](https://medium.com/@itsmanar)
 
-- 📝 I regularly write articles on [https://twitter.com/itslManar](https://twitter.com/itslManar)
+- 📝 I regularly write articles on [https://medium.com/@itsmanar](https://medium.com/@itsmanar)
 
 - 📫 How to reach me **itsmanaralmalki@gmail.com**
 
