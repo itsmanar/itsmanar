@@ -5,19 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmanar" alt="itsmanar" /></a> </p>
 
-- 🔭 I’m currently working on **Investigating Netflix Movies and Guest Stars in The Office , and my portfolio**
-
-- 👯 I’m looking to collaborate on **Data Analysis and Ai projects**
-
-- 💡 to see some interesting ideas [https://medium.com/@itsmanar](https://medium.com/@itsmanar)
-
-- 📝 I regularly write articles on [https://medium.com/@itsmanar](https://medium.com/@itsmanar)
-
 - 📫 How to reach me **itsmanaralmalki@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/manar-almalki/](https://www.linkedin.com/in/manar-almalki/)
-
-- ⚡ Fun fact **I do some designs and I never show them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
